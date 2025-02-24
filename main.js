@@ -1,5 +1,5 @@
 
-function login() {
+function IngresarUsuario() {
     let= nombreUsuario=prompt("Ingrese su usuario");
 
  if (nombreUsuario=="") {
@@ -29,7 +29,7 @@ if (solicitarTurno=="") {
 }
 }
  
-login()
+IngresarUsuario()
 pedirTurno()
 
 
